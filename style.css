@@ -57,10 +57,12 @@ section>span:first-of-type {
   display: block;
 }
 
+/* arrow */
 .arrow::before {
   content: "\2192";
 }
 
+/* charge scooter */
 .charge{
   height: 30px;
   border-radius: 5px;
